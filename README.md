@@ -1,2 +1,2 @@
 # demo
-demo repo
+just a demo repositiory for practice
